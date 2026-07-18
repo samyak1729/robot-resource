@@ -1,3 +1,8 @@
+# Roadmap for myself
+1. Refresher thorugh d2l
+2. nanogpt
+3. lerobot
+
 # General Robotics
 
 1. [MCAP talk ROSCON '22](https://youtu.be/Ly1XSxW8XF4?si=xOWxMUak-Om8KvTu)
